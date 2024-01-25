@@ -1,4 +1,4 @@
-<i>imporant note: this page is a work in progress. If you need anything you can contact here.</i>
+<i>imporant note: this page is a work in progress. If you need anything you can contact me here.</i>
 <h2>About me</h2>
 <ul>
   <li>My name is Aziz Al Younes.</li>
