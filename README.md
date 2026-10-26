@@ -24,5 +24,4 @@ Currently focused on engineering custom web applications, self-hosted tools, and
 ---
 
 ### 📫 Connect & Contact
-* **LinkedIn:** [linkedin.com/in/aziz-al-younes](https://linkedin.com/in/aziz-al-younes)
 * **Email:** [azizalyounes1@gmail.com](mailto:azizalyounes1@gmail.com)
